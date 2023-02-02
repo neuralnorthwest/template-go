@@ -1,0 +1,1 @@
+# neuralnorthwest Go project template
